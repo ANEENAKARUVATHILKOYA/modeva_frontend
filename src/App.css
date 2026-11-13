@@ -1,0 +1,12 @@
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.page-placeholder {
+  padding: 80px 20px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+}
+
